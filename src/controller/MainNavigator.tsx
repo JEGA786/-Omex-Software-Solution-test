@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import { Dashboard } from "../view/dashboard/home/Dashboard";
 import { Footer } from "../view/dashboard/footer/Footer";
 import { Header } from "../view/dashboard/header/Header";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 import { Contactus } from "../view/dashboard/contactus/Contactus";
 
